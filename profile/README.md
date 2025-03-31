@@ -12,16 +12,23 @@ In general, I don't want to have archived public repos in my active GitHub accou
   <http://furbo.org/stuff/dSYM_Archive.txt>.
 - [halostatue-archive/elm-notes][elm-notes]: elm-notes, a companion to
   https://github.com/halostatue/vuex-notes
-- [halostatue-archive/fish-battery][fish-battery]: Battery function for Fish -
-  deprecated
+- [halostatue-archive/fish-battery][fish-battery]: Battery function for Fish - deprecated
+- [halostatue-archive/fish-dict][fish-dict]: Dictionary functions for fish shell
+- [halostatue-archive/fish-docker][fish-docker]: Docker and Docker Compose completions for the Fish Shell
 - [halostatue-archive/fish-fzf][fish-fzf]: FZF Helpers for Fish
+- [halostatue-archive/fish-kiex][fish-kiex]: Configure kiex for Fish
+- [halostatue-archive/fish-nix][fish-nix]
+- [halostatue-archive/fish-ssh-agent][fish-ssh-agent]: SSH agent initialization for Fish
+- [halostatue-archive/fish-vendor-completions][fish-vendor-completions]: Automate sourcing or generating vendor completions
+- [halostatue-archive/gh-merge-upstream][gh-merge-upstream]: A helper for gh cli to keep forks up-to-date
 - [halostatue-archive/gitlater][gitlater]: Speed up your 🐠 Git workflow…without
   Gitflow
-- [halostatue-archive/hoe-templates][hoe-templates]
+- [halostatue-archive/hoe-templates][hoe-templates]: Docker and Docker Compose completions for the Fish Shell
 - [halostatue-archive/hugo-cabaret][hugo-cabaret]: A Hugo theme
 - [halostatue-archive/i18n-tasks-csv][i18n-tasks-csv]:
 - [halostatue-archive/jruby-vijava][jruby-vijava]: A simple wrapper around the
   VMware Infrastructure (vSphere) Java API for use with JRuby.
+- [halosatatue-archive/kx][kx]: Elixir Version Manager
 - [halostatue-archive/maintainable-elixir][maintainable-elixir]:
 - [halostatue-archive/marketo-api-ruby][marketo-api-ruby]: Sane Ruby API for
   Marketo
@@ -50,6 +57,7 @@ In general, I don't want to have archived public repos in my active GitHub accou
   Transaction::Simple for Ruby
 - [halostatue-archive/uninheritable][uninheritable]: Sample code demonstrating
   how to make a class uninheritable in Ruby
+- [halostatue-archive/vim-config]: My new vim config.
 - [halostatue-archive/vim-zoom-win][vim-zoom-win]: Zoom in/out of windows
   (toggle between one window and multi-window)
 - [halostatue-archive/vuex-notes][vuex-notes]: Learn vuex with a notes app,
@@ -59,6 +67,11 @@ In general, I don't want to have archived public repos in my active GitHub accou
   numbering.
 - [halostatue-archive/zsh-focused-dotfiles][zsh-focused-dotfiles]
 
+## Archived Issue Repos
+
+- [halostatue-archive/pkgroll-monorepo-types-issue][pkgroll-monorepo-types-issue]: privatenumber/pkgroll#54, Swatinem/rollup-plugin-dts#127 reproduction
+- [halostatue-archive/typedoc-plugin-pages-180][typedoc-plugin-pages]: This demonstrates the symlinked files issue with typedoc-plugin-pages. KnodesCommunity/typedoc-plugins#180
+
 [agio]: https://github.com/halostatue-archive/agio
 [canonical-attributes]: https://github.com/halostatue-archive/canonical-attributes
 [cookiecutter-shaper]: https://github.com/halostatue-archive/cookiecutter-shaper
@@ -66,12 +79,20 @@ In general, I don't want to have archived public repos in my active GitHub accou
 [dsym-archiver]: https://github.com/halostatue-archive/dsym-archiver
 [elm-notes]: https://github.com/halostatue-archive/elm-notes
 [fish-battery]: https://github.com/halostatue-archive/fish-battery
+[fish-dict]: https://github.com/halostatue-archive/fish-dict
+[fish-docker]: https://github.com/halostatue-archive/fish-docker
 [fish-fzf]: https://github.com/halostatue-archive/fish-fzf
+[fish-kiex]: https://github.com/halostatue-archive/fish-kiex
+[fish-nix]: https://github.com/halostatue-archive/fish-nix
+[fish-ssh-agent]: https://github.com/halostatue-archive/fish-ssh-agent
+[fish-vendor-completions]: https://github.com/halostatue-archive/fish-vendor-completions
 [gitlater]: https://github.com/halostatue-archive/gitlater
+[gh-merge-upstream]: https://github.com/halostatue-archive/gh-merge-upstream
 [hoe-templtes]: https://github.com/halostatue-archive/hoe-templates
 [hugo-cabaret]: https://github.com/halostatue-archive/hugo-cabaret
 [i18n-tasks-csv]: https://github.com/halostatue-archive/i18n-tasks-csv
 [jruby-vijava]: https://github.com/halostatue-archive/jruby-vijava
+[kx]: https://github.com/halostatue-archive/kx
 [maintainable-elixir]: https://github.com/halostatue-archive/maintainable-elixir
 [marketo-api-ruby]: https://github.com/halostatue-archive/marketo-api-ruby
 [poole]: https://github.com/halostatue-archive/poole
@@ -87,7 +108,10 @@ In general, I don't want to have archived public repos in my active GitHub accou
 [text-reform]: https://github.com/halostatue-archive/text-reform
 [transaction-simple]: https://github.com/halostatue-archive/transaction-simple
 [uninheritable]: https://github.com/halostatue-archive/uninheritable
+[vim-config]: https://github.com/halostatue-archive/vim-config
 [vim-zoom-win]: https://github.com/halostatue-archive/vim-zoom-win
 [vuex-notes]: https://github.com/halostatue-archive/vuex-notes
 [xcode-git-version]: https://github.com/halostatue-archive/xcode-git-version
 [zsh-focused-dotfiles]: https://github.com/halostatue-archive/zsh-focused-dotfiles
+[pkgroll-monorepo-types-issue]: https://github.com/halostatue-archive/pkgroll-monorepo-types-issue
+[typedoc-plugin-pages-180]: https://github.com/halostatue-archive/typedoc-plugin-pages-180
