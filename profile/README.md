@@ -17,6 +17,7 @@ In general, I don't want to have archived public repos in my active GitHub accou
 - [halostatue-archive/fish-fzf][fish-fzf]: FZF Helpers for Fish
 - [halostatue-archive/gitlater][gitlater]: Speed up your 🐠 Git workflow…without
   Gitflow
+- [halostatue-archive/hoe-templates][hoe-templates]
 - [halostatue-archive/hugo-cabaret][hugo-cabaret]: A Hugo theme
 - [halostatue-archive/i18n-tasks-csv][i18n-tasks-csv]:
 - [halostatue-archive/jruby-vijava][jruby-vijava]: A simple wrapper around the
@@ -24,14 +25,14 @@ In general, I don't want to have archived public repos in my active GitHub accou
 - [halostatue-archive/maintainable-elixir][maintainable-elixir]:
 - [halostatue-archive/marketo-api-ruby][marketo-api-ruby]: Sane Ruby API for
   Marketo
-- [halostatue-archive/poole][poole]:
+- [halostatue-archive/poole][poole]
 - [halostatue-archive/rubypython][rubypython]: An in-process between Ruby and
   Python 2.
 - [halostatue-archive/ruwiki][ruwiki]: Ruwiki. This is a dead project and is
   only preserved for historical reasons.
 - [halostatue-archive/ryanb-dotfiles-fork][ryanb-dotfiles-fork]: config files
   for zsh, bash, completions, gem, git, irb, rails
-- [halostatue-archive/simple\_rails\_app][simple_rails_app]:
+- [halostatue-archive/simple\_rails\_app][simple_rails_app]
 - [halostatue-archive/sqitch\_elixir][sqitch_elixir]: Sqitch is a semi-sane way
   to manage databases. This module here is all about integrating with the power
   of Sqitch.
@@ -56,7 +57,7 @@ In general, I don't want to have archived public repos in my active GitHub accou
 - [halostatue-archive/xcode-git-version][xcode-git-version]: A script that I use
   for versioning builds using git. Supports both sharef and version-tag
   numbering.
-- [halostatue-archive/zsh-focused-dotfiles][zsh-focused-dotfiles]:
+- [halostatue-archive/zsh-focused-dotfiles][zsh-focused-dotfiles]
 
 [agio]: https://github.com/halostatue-archive/agio
 [canonical-attributes]: https://github.com/halostatue-archive/canonical-attributes
@@ -67,6 +68,7 @@ In general, I don't want to have archived public repos in my active GitHub accou
 [fish-battery]: https://github.com/halostatue-archive/fish-battery
 [fish-fzf]: https://github.com/halostatue-archive/fish-fzf
 [gitlater]: https://github.com/halostatue-archive/gitlater
+[hoe-templtes]: https://github.com/halostatue-archive/hoe-templates
 [hugo-cabaret]: https://github.com/halostatue-archive/hugo-cabaret
 [i18n-tasks-csv]: https://github.com/halostatue-archive/i18n-tasks-csv
 [jruby-vijava]: https://github.com/halostatue-archive/jruby-vijava
